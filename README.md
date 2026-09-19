@@ -10,7 +10,7 @@ MobileNet SSD Object Detection is a computer vision project that uses **MobileNe
 
 👉 **Try the App**
 
-https://task-3-aayush-mahadik-gjj92pqd6sekj5fq9xqk4q.streamlit.app/
+https://task-4-aayush-mahadik-cuknitwczq7nw5kzmjsd7w.streamlit.app/
 
 ---
 
